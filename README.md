@@ -6,9 +6,9 @@ You can download this here: https://github.com/MerlinVR/UdonSharp
 
 These scripts (as of 10/26/2021), can be categoriezed under 5 types:
 
-  *basic object
-  *door
-  *player
-  *toy
-  *ui
+  : *basic object
+    *door
+    *player
+    *toy
+    *ui
   
