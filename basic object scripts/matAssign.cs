@@ -6,7 +6,7 @@ using VRC.Udon;
 //assigns a new material onto an object on interaction
 //if an object has multiple material slots, Material Reference[0] will be assigned
 
-public class toggle : UdonSharpBehaviour
+public class matAssign : UdonSharpBehaviour
 {
     public Material mat;
     public GameObject[] matAssignables;
