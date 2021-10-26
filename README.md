@@ -5,10 +5,15 @@ This repository contains cs and .meta files for VRChat UdonSharp scripts.
 You can download this here: https://github.com/MerlinVR/UdonSharp
 
 These scripts (as of 10/26/2021), can be categoriezed under 5 types:
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
-  : *basic object
-    *door
-    *player
-    *toy
-    *ui
-  
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+
