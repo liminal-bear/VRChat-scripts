@@ -12,3 +12,5 @@ These scripts (as of 10/26/2021), can be categoriezed under 5 types:
 * player
 * toy
 * ui
+
+<img src="https://github.com/liminal-bear/VRChat-scripts/blob/main/carSystem.jpg" width=50% height=50%>
