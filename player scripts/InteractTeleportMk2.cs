@@ -1,9 +1,9 @@
-﻿using UdonSharp;
+using UdonSharp;
 using UnityEngine;
 using VRC.SDKBase;
 using VRC.Udon;
 
-public class InteractTeleport : UdonSharpBehaviour
+public class InteractTeleportMk2 : UdonSharpBehaviour
 {
 	public GameObject Target;
 	private VRCPlayerApi localPlayer;
