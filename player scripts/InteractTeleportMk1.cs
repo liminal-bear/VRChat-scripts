@@ -5,7 +5,7 @@ using VRC.Udon;
 
 //used to teleport a player to a target position upon interact
 
-public class buttonTeleportudon : UdonSharpBehaviour
+public class InteractTeleportMk1 : UdonSharpBehaviour
 {
     public Transform Target;
     private VRCPlayerApi Player;
